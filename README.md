@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mayantha Sunera Basnayaka</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h1 align="center">Hi  there👋, I'm Umaira Marikkar/h1>
+<h3 align="center">A passionate Web and Software Developer</h3>
 
 - 🌱 I’m currently learning *Mern Stack , Java*
 
-- 📫 How to reach me *mayantha10@gmail.com*
+- 📫 Reach me *mumaira0625@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
