@@ -1,7 +1,7 @@
 <h1 align="center">Hi  there👋, I'm Umaira Marikkar</h1>
 <h3 align="center">A passionate Web and Software Developer</h3>
 
-- 🌱 I’m currently learning *Mern Stack , Java*
+- 🌱 I’m currently learning *Mern Stack*
 
 - 📫 Reach me *mumaira0625@gmail.com*
 
