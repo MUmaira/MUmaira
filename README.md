@@ -7,7 +7,7 @@ Hello! I'm Umaira Marikkar, A student from Sri Lanka
 
 - 📫 Reach me *mumaira0625@gmail.com*
 
-<h3 align="left">Connect with me: http://www.linkedin.com/in/umaira-marikkar</h3>
+<h3 align="left">Connect with me: http://www.linkedin.com/in/umairaM</h3>
 <p align="left">
 </p>
 
