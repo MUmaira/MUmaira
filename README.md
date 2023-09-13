@@ -3,7 +3,7 @@
 
 Hello! I'm Umaira Marikkar, A student from Sri Lanka
 
-- 🌱 I’m currently learning *Mern Stack*
+- 🌱 I’m currently learning *React Native*
 
 - 📫 Reach me *mumaira0625@gmail.com*
 
