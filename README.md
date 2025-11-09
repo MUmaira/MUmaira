@@ -4,7 +4,6 @@
 Hello! I'm Umaira Marikkar.
 
 - 📫 Reach me *mumaira0625@gmail.com*
+- Connect with me: http://www.linkedin.com/in/umairaM
 
-<h3 align="left">Connect with me: http://www.linkedin.com/in/umairaM</h3>
-<p align="left">
-</p>
+
